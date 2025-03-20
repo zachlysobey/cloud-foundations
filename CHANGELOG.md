@@ -21,3 +21,7 @@ amending those changes into my initial commit, and *force pushing*.
 #### commit: `chore(ci): Github Actions hello world`
 
 This commit creates a minimal "Hello World" Github Actions workflow.
+
+#### commit: `chore(deps): integrate dependabot`
+
+This commit configures *Dependabot* such that it should let us know when there are newly available versions in the Github Actions setup.

@@ -25,3 +25,7 @@ This commit creates a minimal "Hello World" Github Actions workflow.
 #### commit: `chore(deps): integrate dependabot`
 
 This commit configures *Dependabot* such that it should let us know when there are newly available versions in the Github Actions setup.
+
+#### *point and click*: Github configuration
+
+I went in and tweaked some repository settings: Features, Merge Strategies, ...
